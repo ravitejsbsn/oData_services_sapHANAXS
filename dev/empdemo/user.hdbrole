@@ -1,0 +1,5 @@
+role s0015673522trial.dev.empdemo::user  
+{  
+  catalog schema "NEO_ELUZGA0EXBSKJ6H1427KK1PMI": CREATE ANY, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE;  
+  application privilege: s0015673522trial.dev.empdemo::Execute;  
+}  
